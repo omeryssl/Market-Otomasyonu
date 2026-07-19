@@ -1,0 +1,29 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Visual Studio user-specific files and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.userprefs
+
+# DevExpress CodeRush personal IDE state
+**/.cr/personal/
+
+# Build intermediates and diagnostics
+[Oo]bj/
+TestResults/
+*.pdb
+!**/[Pp]ackages/**/*.pdb
+*.cache
+*.tlog
+*.log
+*.tmp
+*.temp
+
+# Bin/, packages/, and DevExpress assemblies remain tracked pending build verification.
